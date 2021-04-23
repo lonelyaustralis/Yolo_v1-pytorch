@@ -33,3 +33,6 @@ inference.py
 
 VOC2012
 
+# 环境
+pytorch 1.7.1
+
